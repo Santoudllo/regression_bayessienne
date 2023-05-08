@@ -1,0 +1,2 @@
+sklearn
+bambi==0.10.0
