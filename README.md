@@ -1,2 +1,2 @@
 # regression_bayessienne
-Presenter l'lagorithme bayessienne 
+Présentation de l'approche bayésienne
